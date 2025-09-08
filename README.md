@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poojsri&label=Profile%20views&color=0e75b6&style=flat" alt="poojsri" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=poojsri" alt="poojsri" /></a> </p>
 
 - 🔭 I’m currently working on [nvim-secscan](https://github.com/Poojsri/nvim-secscan)
 

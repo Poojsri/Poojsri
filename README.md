@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-6QMMqMUXV2xdZM_mnRH_o9Hg2seEm2H/view?usp=drive_link](https://drive.google.com/file/d/1-6QMMqMUXV2xdZM_mnRH_o9Hg2seEm2H/view?usp=drive_link)
 
-- ⚡ Fun fact **I like....not very sure though**
+- ⚡ Fun fact **I sleep without snoring*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

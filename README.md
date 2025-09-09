@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDVnN3hiNWxndnBuNTZmOWJuY25wa3J1M3RrYjVsNXRhZjBjcWc4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KHh7jLrG6gIXBTnxsp/giphy.gif" alt="fun gif" width="300"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDVnN3hiNWxndnBuNTZmOWJuY25wa3J1M3RrYjVsNXRhZjBjcWc4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KHh7jLrG6gIXBTnxsp/giphy.gif" alt="fun gif" width="500"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Pooja S</h1>
